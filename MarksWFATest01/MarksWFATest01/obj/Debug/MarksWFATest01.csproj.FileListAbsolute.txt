@@ -1,0 +1,9 @@
+C:\Github\MarksWFATest01\MarksWFATest01\bin\Debug\MarksWFATest01.exe.config
+C:\Github\MarksWFATest01\MarksWFATest01\bin\Debug\MarksWFATest01.exe
+C:\Github\MarksWFATest01\MarksWFATest01\bin\Debug\MarksWFATest01.pdb
+C:\Github\MarksWFATest01\MarksWFATest01\obj\Debug\MarksWFATest01.csprojResolveAssemblyReference.cache
+C:\Github\MarksWFATest01\MarksWFATest01\obj\Debug\MarksWFATest01.frmMain.resources
+C:\Github\MarksWFATest01\MarksWFATest01\obj\Debug\MarksWFATest01.Properties.Resources.resources
+C:\Github\MarksWFATest01\MarksWFATest01\obj\Debug\MarksWFATest01.csproj.GenerateResource.Cache
+C:\Github\MarksWFATest01\MarksWFATest01\obj\Debug\MarksWFATest01.exe
+C:\Github\MarksWFATest01\MarksWFATest01\obj\Debug\MarksWFATest01.pdb
