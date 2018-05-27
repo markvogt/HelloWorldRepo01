@@ -18,5 +18,6 @@ namespace MarksWFATest01
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmMain());
         }
+        //MV 2018 05 27 Here is  line added by MV using VS Code and git... 
     }
 }
